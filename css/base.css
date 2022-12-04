@@ -1,3 +1,6 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .clearfix {
     overflow: hidden;
 }
@@ -10,7 +13,7 @@
 .tac {
     text-align: center;
 }
-.center {
+.center-wrap {
     width: 1152px;
     margin: 0 auto;
 }
